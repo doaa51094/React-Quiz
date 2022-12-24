@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Quiz/static/css/main.a9bfb3cf.css",
+    "main.js": "/React-Quiz/static/js/main.52b6d4b6.js",
+    "static/media/nattu-adnan-unsplash.jpg": "/React-Quiz/static/media/nattu-adnan-unsplash.c866d607938d6048d5e1.jpg",
+    "static/media/quiz-logo.png": "/React-Quiz/static/media/quiz-logo.9fa38c9d01e451bff87b.png",
+    "index.html": "/React-Quiz/index.html",
+    "main.a9bfb3cf.css.map": "/React-Quiz/static/css/main.a9bfb3cf.css.map",
+    "main.52b6d4b6.js.map": "/React-Quiz/static/js/main.52b6d4b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9bfb3cf.css",
+    "static/js/main.52b6d4b6.js"
+  ]
+}
