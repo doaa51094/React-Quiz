@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya&family=Alegreya+Sans&family=Catamaran:wght@700&family=Dancing+Script&family=Montserrat&family=Poppins:ital,wght@0,500;1,400&family=Roboto:wght@700&family=Xanh+Mono:ital@1&display=swap");
+body {
+  background-image: url(../img/nattu-adnan-unsplash.jpg);
+  background-background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+body #home {
+  font-size: large;
+  font-family: 'Catamaran', sans-serif;
+  text-align: center;
+}
+
+body #home .item {
+  background-color: rgba(245, 245, 245, 0.6);
+}
+
+body #home .choose {
+  border: none;
+  width: 100%;
+  background-image: -webkit-gradient(linear, left top, right top, from(#039db8), to(#00191d));
+  background-image: linear-gradient(to right, #039db8, #00191d);
+}
+
+body #home .start, body #home .next {
+  cursor: pointer;
+  background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#ffcc91));
+  background: linear-gradient(180deg, #fff, #ffcc91);
+  border: 2px solid #d38558;
+  -webkit-box-shadow: -5px 5px rgba(0, 0, 0, 0.25);
+          box-shadow: -5px 5px rgba(0, 0, 0, 0.25);
+}
+
+body #home .correct {
+  cursor: pointer;
+  background: green;
+  color: white;
+}
+
+body #home .incorrect {
+  cursor: pointer;
+  background: red;
+  color: white;
+}
+
+@media screen and (max-width: 992px) {
+  body body {
+    background-attachment: fixed;
+    height: 100vh;
+  }
+}
+/*# sourceMappingURL=Style.css.map */
